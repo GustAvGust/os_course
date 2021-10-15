@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+
+# @author: Maxmov Konstantin
+# @group: 11-901
+
 import os
 import random
 import argparse
